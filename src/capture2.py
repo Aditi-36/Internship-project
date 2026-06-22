@@ -16,7 +16,7 @@ POSE_CONNECTIONS = [
     (26, 28), (27, 29), (28, 30), (29, 31), (30, 32), (27, 31), (28, 32)
 ]
 
-model_path = r'C:\Users\Aditi Singh\Desktop\Internship project\pose_landmarker_lite.task'
+model_path = 'pose_landmarker_lite.task'
 
 # Global variables to store latest detection results
 latest_result = None
